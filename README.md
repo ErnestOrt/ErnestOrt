@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Ernest here. Currently working as Team Lead at Clarivate building [Cortellis Drug Discovery Intelligence][cddi] 
+
 <!--
 **ErnestOrt/ErnestOrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[cddi]: <http://cortellis.com/drugdiscovery/home>
