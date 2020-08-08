@@ -12,7 +12,7 @@ Outside the world of work, I have developed quite a few projects, most of them h
   
 >[Trampoline][trampoline]
 >
-> Trampoline is an open source project, which helps admin Spring Boot-based services locally during your development phase.
+> An open source project, which helps admin Spring Boot-based services locally during your development phase.
 >(Unix||Windows)&&(Maven||Gradle)
 
 Ping me if you have an idea and want to build something! 🤓
