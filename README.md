@@ -2,7 +2,7 @@
 
 Ernest here. Currently working as a Team Lead at Clarivate building [Cortellis Drug Discovery Intelligence][cddi].
 
-I have had the privilege of working on a wide spectrum of projects, businesses and technologies. I have also experienced first-hand the transition from data centers to the cloud, as well as from monoliths to microservices and the emergence of non-relational databases. I have been fortunate to be able to work on the four main backend development stacks: .NET, Java, JS and Python.
+I have had the privilege of working with a wide spectrum of projects, businesses and technologies. I have also experienced first-hand the transition from data centers to the cloud, as well as from monoliths to microservices and the emergence of non-relational databases. I have been fortunate to be able to work on the four main backend development stacks: .NET, Java, JS and Python.
 
 Outside the world of work, I have developed quite a few projects, most of them have been left behind, but I would like to highlight two of them:
 
